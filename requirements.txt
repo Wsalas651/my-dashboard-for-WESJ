@@ -1,0 +1,15 @@
+# Streamlit demo
+streamlit
+altair
+pandas
+
+# Dash demo
+dash
+plotly
+gunicorn
+
+# Bokeh demo
+bokeh
+
+
+#DONT FORGET THE SECRET TOKENS ON SECRETS AND VARIABLES ON GITHUB
